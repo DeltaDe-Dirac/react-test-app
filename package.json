@@ -2,7 +2,7 @@
   "name": "react-test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deltade-dirac.github.io/test-app/",
+  "homepage": "https://deltade-dirac.github.io/react-test-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
